@@ -1,2 +1,3 @@
 # Bi183
-Homework code og Meichen
+Homework code 
+by Meichen
